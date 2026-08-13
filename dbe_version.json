@@ -1,4 +1,4 @@
 {
-  "latest_version": "31.7",
-  "changelog": "Small hot fix about Translations + new mcm setting; Affect Player Party (Full Overhaul). if you disable this setting, ur troops are not affected by mod"
+  "latest_version": "31.8",
+  "changelog": "Full Scout System localization (TR/RU/KO/ZH), fixed AffectPlayerParty scout calculation bug, and restored missing MCM setting translations."
 }
